@@ -1,2 +1,2 @@
-# playgrounds
-Different playgrounds to try a quick concept
+# Playgrounds
+Different playgrounds to try quick concepts with Swift in Xcode.
